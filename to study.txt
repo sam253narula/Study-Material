@@ -1,0 +1,17 @@
+DevOps
+Docker
+Kubernates
+AWS
+TRY blue green deployment 
+
+From Spring boot
+Hateos 
+ZUUL
+EUREKA
+
+Core java
+Data structures
+design patterns
+ 
+
+

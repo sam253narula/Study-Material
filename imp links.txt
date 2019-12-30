@@ -1,0 +1,22 @@
+//Fusion home page
+https://eeho.fa.us2.oraclecloud.com/hcmUI/faces/FuseWelcome?_afrLoop=445987164462886&_afrWindowMode=0&_afrWindowId=null&_adf.ctrl-state=16rrkrcexs_1&_afrFS=16&_afrMT=screen&_afrMFW=1920&_afrMFH=962&_afrMFDW=1366&_afrMFDH=768&_afrMFC=8&_afrMFCI=0&_afrMFM=0&_afrMFR=96&_afrMFG=0&_afrMFS=0&_afrMFO=0
+
+
+//Link to upload your resume
+http://10.40.88.90:7001/RMS/
+
+
+
+//Chat Link to serach people
+https://oracle.enterprise.slack.com/
+
+Learning site
+https://learning.oracle.com/lmt/lmtLogin.prMenu?in_sessionid=20198JAJ238J411J
+
+
+
+
+
+
+normal learning
+https://www.tutorialspoint.com/docker/index.htm

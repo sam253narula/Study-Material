@@ -1,0 +1,19 @@
+Step 1) Install Docker Toolbox on windows
+https://github.com/docker/toolbox/releases
+
+Step 2) intsall it after downlaoding from above link
+
+Step 3) Open Task manager and goto performance tab and check if the virtualization is enabled, if it is disabled.
+
+then open BIOS by rebooting the laptop and press F1 cntinuously to land up to bios setting option, then inside BIO menu goto security tab and check open virtualization and enable it
+
+Step 4) If you are facin gporblem with hyper visor then check if hyper visor is on, you can check this by opening the windows key and search "Turn windows features on or Off"
+inside it you will find hypervisor, if the checkbox is enabled, let it be.
+
+Step 5)Now lets disbale Hypervisor, follow the ink below, in sort all you have to do is fire the following commnads in admin cmd tab(In order to open cmd in admin mode, just open run mode and type cmd and then press CTRL + SHIFT + ENTER
+
+CMD Commands below:
+bcdedit
+bcdedit /set hypervisorlaunchtype off
+
+https://stackoverflow.com/questions/50053255/virtualbox-raw-mode-is-unavailable-courtesy-of-hyper-v-windows-10
