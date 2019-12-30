@@ -16,4 +16,10 @@ CMD Commands below:
 bcdedit
 bcdedit /set hypervisorlaunchtype off
 
+after this restart your os
+
 https://stackoverflow.com/questions/50053255/virtualbox-raw-mode-is-unavailable-courtesy-of-hyper-v-windows-10
+
+
+
+Step 6) still if you face issues then open cmd type services.msc and searh docker desktop service and stop and start it again
