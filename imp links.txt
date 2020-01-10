@@ -2,6 +2,8 @@
 https://eeho.fa.us2.oraclecloud.com/hcmUI/faces/FuseWelcome?_afrLoop=445987164462886&_afrWindowMode=0&_afrWindowId=null&_adf.ctrl-state=16rrkrcexs_1&_afrFS=16&_afrMT=screen&_afrMFW=1920&_afrMFH=962&_afrMFDW=1366&_afrMFDH=768&_afrMFC=8&_afrMFCI=0&_afrMFM=0&_afrMFR=96&_afrMFG=0&_afrMFS=0&_afrMFO=0
 
 
+
+
 //Link to upload your resume
 http://10.40.88.90:7001/RMS/
 
@@ -13,10 +15,19 @@ https://oracle.enterprise.slack.com/
 Learning site
 https://learning.oracle.com/lmt/lmtLogin.prMenu?in_sessionid=20198JAJ238J411J
 
+For refering people
+https://oracle.taleo.net/careersection/profile.jss?lang=en&type=2&csNo=1&portal=201430233&isOnLogoutPage=true
 
-
+For downloading softwares, use below Link
+https://mydesktop.oraclecorp.com/myd/myd_software_licenses.show_complete_list#
 
 
 
 normal learning
 https://www.tutorialspoint.com/docker/index.htm
+
+
+to get the excelity access(HR payroll etc) mail below:
+website Link:  https://ess.excelityglobal.com/index.jsp
+
+mail  :  Info@excelityglobal.com

@@ -1,0 +1,7 @@
+1) Create AWS Account
+2) Login Console
+3) Create Ubantu EC2 instance(In security out all traffic and anywhere)
+4) If windows user then Download Putty to use Linux Commands.
+5)Also download Puttygen, load the pem file downloaded from aws to generate the ppk file.(Load then save private key button)
+6) Open Putty, in category,select session then provide the Ipv4 address from AWS page, then COnnection-> SSH -> Auth(browse file and load the ppk FIle and then
+click on Open
