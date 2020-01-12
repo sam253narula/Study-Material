@@ -5,3 +5,26 @@
 5)Also download Puttygen, load the pem file downloaded from aws to generate the ppk file.(Load then save private key button)
 6) Open Putty, in category,select session then provide the Ipv4 address from AWS page, then COnnection-> SSH -> Auth(browse file and load the ppk FIle and then
 click on Open
+
+type login name as ubuntu
+
+
+Ubuntu commmands
+pwd
+hostname
+
+//to get ip and server name
+nslookup <hostname>
+
+//To create new file
+vi hello.sh
+
+
+//to change permission and give all users all permissions
+chmod 777 <filename>
+
+//to run script file
+./hello.sh
+
+
+
